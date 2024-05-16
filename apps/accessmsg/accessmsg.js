@@ -11,7 +11,7 @@ let current = 0;
 function afficherMessage() {
   // Efface l'écran et affiche le message actuel
   g.clear();
-  g.setFont("Vector", 50);
+  g.setFont("Vector", 20);
   g.drawString(messages[current], 20, 100, true);
   g.flip(); // Actualise l'écran
 }

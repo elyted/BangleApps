@@ -3,7 +3,7 @@
   "shortName":"assistant",
   "version":"0.03",
   "description": "application d'aide à la communication qui permet d'afficher des messages pré-enregistrés",
-  "icon": "app-icon.js",
+  "icon": "accessmsg.img",
   "tags": "",
   "supports" : ["BANGLEJS","BANGLEJS2"],  
   "readme": "README.md",
