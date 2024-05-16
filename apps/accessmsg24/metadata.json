@@ -1,0 +1,15 @@
+{ "id": "accessmsg2024",
+  "name": "assistant de communication accessible",
+  "shortName":"assistant",
+  "version":"0.1",
+  "description": "application d'aide à la communication qui permet d'afficher des messages pré-enregistrés",
+  "icon": "app-icon.js",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "readme.txt",
+  "storage": [
+    {"name":"accessmsg24.app.js","url":"app.js"},
+    {"name":"app-icon.img","url":"app-icon.js","evaluate":true}
+  ]
+}
+
