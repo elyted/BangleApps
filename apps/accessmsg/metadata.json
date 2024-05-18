@@ -1,15 +1,15 @@
 { "id": "accessmsg",
   "name": "assistant de communication accessible",
   "shortName":"assistant",
-  "version":"0.03",
+  "version":"0.04",
   "description": "application d'aide à la communication qui permet d'afficher des messages pré-enregistrés",
-  "icon": "app-icon.png",
+  "icon": "accessmsg.png",
   "tags": "",
   "supports" : ["BANGLEJS","BANGLEJS2"],  
   "readme": "README.md",
   "storage": [
     {"name":"accessmsg.app.js","url":"accessmsg.js"},
-    {"name":"accessmsg.img","url":"app-icon.js","evaluate":true}
+    {"name":"accessmsg.img","url":"accessmsg.icon.js","evaluate":true}
   ]
 }
 
