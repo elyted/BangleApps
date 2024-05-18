@@ -1,7 +1,7 @@
 { "id": "accessmsg",
   "name": "assistant de communication accessible",
   "shortName":"assistant",
-  "version":"0.04",
+  "version":"0.05",
   "description": "application d'aide à la communication qui permet d'afficher des messages pré-enregistrés",
   "icon": "accessmsg.js",
   "tags": "",
